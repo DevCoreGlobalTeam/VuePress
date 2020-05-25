@@ -9,5 +9,8 @@
   },
   "keywords": [],
   "author": "Al3x Roqe",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.0"
+  }
 }
